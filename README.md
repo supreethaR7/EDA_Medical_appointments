@@ -1,4 +1,4 @@
-# EDA_Medical_appointments
+# Medical_appointments
 
 In this project, the data associated with No Show Appointment will be analyzed. 
 ### Project Context 
